@@ -1,0 +1,13 @@
+// Topics:
+// Variables and variable definitions
+// Define variables before they are used
+// Defining multiple variables of the same type in one statement
+// Identifiers and case sensitivity
+// Prompting messages
+// The scanf function and formatted input
+// Prompting for and inputting the second integer
+// Defining the sum variable
+// Assignment statement
+// Printing with a format control string
+// Combining a variable definition and assignment statement
+// Calculations in printf statements

@@ -1,0 +1,39 @@
+CPE 2.2 Using a capital letter where a lowercase should be used
+
+EPT 2.1 Avoid starting identifiers with the underscore character to
+prevent conflicts with compiler generated identifiers and standard
+library identifiers.
+
+GPP 2.5 Choosing meaningful variable names helps make a program
+self-documenting - that is, fewer comments are needed.
+
+GPP 2.6 The first letter of an identiifer used as a simple variable
+should be a lowercase letter. Later in the text we'll assign special
+significance to identifiers that begin with a capital letter and to
+identifiers that use all capital letters.
+
+GPP 2.7 Multiple-word variable names can help make a program more
+readable. Separate the words with underscores, or begin each word
+after the first with a capital letter. The latter style, known as
+camel casing, is preferred (???)
+
+GPP 2.8 Place a space after each comma to make programs more readable.
+
+GPP 2.9 Place spaces on either side of a binary operator. This makes
+the operator stand out and makes the program more readable.
+
+CPE 2.3 A calculation in an assignment statement must be on the right
+side of the = operator. It's a compilation error to place a calculation
+on the left side of an assignment operator.
+
+CPE 2.4 Forgetting to precede a variable in a scanf statement with an
+ampersand (&) when that variable should, in fact, be preceded with an
+ampersand results in an execution-time (or run-time) error. On many
+systems, this cases a "segmentation fault" or "access violation". Such
+an error occurs when a user's program attempts to access a part of the
+computer's memory to which it does not have access privileges.
+
+CPE 2.5 Preceding a variable included in a printf statement with an
+ampersand when, in fact, that variable should not be preceded by an
+ampersand.
+
