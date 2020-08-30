@@ -1,0 +1,31 @@
+// Topics:
+// --------------------------------------------------------------
+// 2.5
+// [] Arithmetic Operations
+// [] Integer Division and the Remainder Operator
+// [] Parentheses for Grouping Subexpressions
+// [] Rules of Operator Precedence
+// [] Sample Algebraic and C Expressions
+// [] Evaluation of a Second-Degree Polynomial
+// [] Using Parentheses for Clarity
+//
+// 2.6
+// [] Equality and relational operators
+// [] Comparing numbers
+//
+// 2.7
+// [] Safe C programming
+
+Additional Topics:
+* Homework 2 discussion
+    - Uninitialized variables
+    - Invalid values
+* a.out
+* data types
+* Makefile
+* 
+
+// 156 = (1 * 10^2) + (5 * 10^1) + (6 * 10^0) = 100 + 50 + 6 = 156
+// 1101 = 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0 = 8 + 4 + 1 = 13
+// 11011101 11011101 11011101 11011101 11011101 11011101 11011101 11011101 
+// = 1*2^63 + 1*2^62 + 0 + .....

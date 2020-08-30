@@ -1,0 +1,39 @@
+[ ] CPE 2.6 An attempt to divide by zero is normally undefined on computer
+            systems and generally results in a fatal error that causes the
+            program to terminate immediately without having succesfully
+            performed its job. Nonfatal errors allow program to run to
+            completion, often producing incorrect results.
+
+[ ] CPE 2.7 A syntax error occurs if the two symbols in any of the operators
+            ==, !=, >= and <= are separated by spaces.
+
+[ ] CPE 2.8 Confusing the equality operator == with the assignment operator. To
+            avoid this confusion the equality operator should be read "double
+            equals"  and the assignment operator should be read "gets" or
+            "is assigned the value of." As you'll see, confusing these operators
+            may not cause an easy-to-recognize compilation error, but may cause
+            exremely subtle logic errors.
+
+[ ] GPP 2.10 Although it's allowed, there should be no more than one statement
+             per line in a program.
+
+[ ] CPE 2.9 Placing commas (when none are needed) between conversion specifiers
+            in the format control string of a scanf statement.
+
+[ ] CPE 2.10 Placing a semicolon immediately to the right of the right
+             parenthesis after the condition in an if statement
+
+[ ] GPP 2.11 A lengthy statement may be spread over several lines. If a statement
+             must be split acorss lines, choose breaking points that make sense
+             (such as after a comma in a comma-separated list). If a statement is
+             split across two or more lines, indent all subsequent lines. It's not
+             correct to split identifiers.
+
+[ ] GPP 2.12 Refer to the operator precedence chart when writing expressions
+             containing many operators. Confirm that the operators in the expression
+             are applied in the proper order. If you're uncertain about the order of
+             evaluation in a complex expression, use parentheses to group expressions
+             or break the statement into several simpler statements. Be sure to
+             observe that some of C's operators such as the assignment operator (=)
+             associate from right to left rather than from right to left.
+
