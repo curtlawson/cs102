@@ -1,0 +1,25 @@
+Algorithms and Pseudocode
+-------------------------------------------------------------------------------
+Understand the definition of an algorithm.
+Know what pseudocode is and how to write it.
+Learn how we can transition from 
+    problem definition -> pseudocode -> comments -> code
+
+Control Structures
+-------------------------------------------------------------------------------
+Conceptually understand sequential execution and transfer of control
+Conceptually understand the three types of control structures
+Know what a flowchart is, what symbols make up a flowchart, and be able to 
+    construct flowcharts.
+Know what the selection statements in C are.
+Know that the iteration statements in C are.
+
+The if and if/else Selection Statements
+-------------------------------------------------------------------------------
+Know the various forms of the if and if/else statements.
+Understand how if and if/else statements can be nested.
+
+The while Iteration Statement
+-------------------------------------------------------------------------------
+Learn the syntax of the while statement.
+Be able to use the while statement in programs of your own.
