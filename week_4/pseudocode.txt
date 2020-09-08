@@ -1,0 +1,10 @@
+
+
+// If the user input is negative
+//     Print an error message
+// Otherwise
+//     Perform the calculation
+
+
+// While there are more items on my shopping list
+//     Purchase next item and cross it off my list
