@@ -1,0 +1,27 @@
+1. Differences between the 3 types of programming languages: machine languages,
+   assembly languages, and high-level languages.
+2. History of the C languages
+3. C standard library
+4. Phases of developing a C Program: editing, preprocessor, compiling, linking,
+   loading, running.
+5. Hello World
+6. Important parts of a C program: preprocessor directives, main, comments,
+   output (e.g., printf), escape sequences, linker, 
+7. Best Programming Practices
+8. Memory Concept 
+9. Arithmetic Operators (add, subtract, multiply, divide, modulo)
+10. Integer arithmetic
+11. Default operator precedence / order of operations
+12. Parenthesization
+13. Algebraic expressions 
+14. Equality and relational operators
+15. C Keywords
+16. Algorithms and Pseudocode (definitional)
+17. 3 types of Control Structures (definitional)
+18. Flowcharting (if, if/else, while)
+19. if, if/else Selection Statements
+20. Nested vs Stacked Control Structures
+21. while Iteration Statement
+22. Assignment Abbreviation Operators (e.g., +=)
+23. Increment/Decrement Operators (prefix, postfix);
+24. Structured Programming

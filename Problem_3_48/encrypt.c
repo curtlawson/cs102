@@ -76,13 +76,20 @@
 int main(void)
 {
     int not_finished = 1;
+    char c;
+    printf("enter char: ");
+    scanf("%c", &c);
+    printf("You entered %d\n", (int)c);
+    int x = (int)c;
+    printf("x is %d\n", x);
+    
 
     while(not_finished)
     {
         // Read a plaintext integer from the user
         int plaintext = 0;
         printf("> ");
-        scanf("%d", &plaintext);
+        //scanf("%d", &plaintext);
  
         // Check to see if the user is finished.
         // If the user entered a -1 then we should stop processing.

@@ -3,9 +3,9 @@
 int main(void)
 {
     int not_finished = 1;
+    int plaintext = 0;
     while(not_finished)
     {
-        int plaintext = 0;
         printf("> ");
         scanf("%d", &plaintext);
         not_finished = (plaintext != -1) ? 1 : 0;
